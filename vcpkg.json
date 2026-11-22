@@ -1,0 +1,27 @@
+{
+  "name" : "urhi",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "27560a5fe9ff2ba4a08a0d7a5800a679684fa733",
+  "dependencies" : [ {
+    "name" : "vulkan-memory-allocator-hpp",
+    "version>=" : "3.5.0"
+  }, {
+    "name" : "volk",
+    "version>=" : "1.4.363.0"
+  }, {
+    "name" : "vk-bootstrap",
+    "version>=" : "1.4.363"
+  }, {
+    "name" : "directx-headers",
+    "version>=" : "1.721.2"
+  }, {
+    "name" : "directx12-agility",
+    "version>=" : "1.619.5"
+  }, {
+    "name" : "d3d12-memory-allocator",
+    "version>=" : "3.2.1"
+  }, {
+    "name" : "vulkan-headers",
+    "version>=" : "1.4.363.0"
+  } ]
+}
